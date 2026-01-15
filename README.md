@@ -1,7 +1,7 @@
 # Hi there, I'm Mathieu Bodin! 👋 | 您好，我是馬修！
 
 ### 🏭 Future Automation Engineer | AI Integration Specialist
-### 🏭 未來自動化工程師 | AI 整合專家
+### 未來自動化工程師 | AI 整合專家
 
 I am currently a Master's student (**graduating Feb 2026**) specializing in the convergence of traditional industrial automation and Artificial Intelligence. 
 My goal is to modernize industrial processes through Python scripting and smart data integration.
