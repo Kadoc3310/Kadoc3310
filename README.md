@@ -3,26 +3,39 @@
 ### 🏭 Future Automation Engineer | AI Integration Specialist
 ### 未來自動化工程師 | AI 整合專家
 
-I am a Master’s graduate (**February 2026**), specialized in the convergence of traditional industrial automation and Artificial Intelligence.
+I am a French Master’s graduate (**February 2026**), specialized in the convergence of traditional industrial automation and Artificial Intelligence.
 My focus is on modernizing industrial processes through Python scripting and intelligent data integration.
 
 
 我已於 2026 年 2 月取得碩士學位，專攻傳統工業自動化與人工智慧的融合。
 我的專業重點在於透過 Python 腳本與智慧數據整合來實現工業製程的現代化。
 ---
-
-### 🛠️ Tech Stack | 技術棧
-
-**Languages & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ladder Logic](https://img.shields.io/badge/PLC_Programming-Mitsubishi-red?style=for-the-badge)
-
-**Frameworks & Tools**
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Notion API](https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GX Works3](https://img.shields.io/badge/GX_Works3-Factory-green?style=for-the-badge)
-
+<table>
+  <tr>
+    <td><strong>Languages & Scripting</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/PLC_Programming-Mitsubishi-red?style=for-the-badge" alt="PLC">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" alt="Tkinter">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
+      <img src="https://img.shields.io/badge/GX_Works3-Factory-green?style=for-the-badge" alt="GX Works3">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & Integration</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/OPC_UA-Industrial-purple?style=for-the-badge" alt="OPC UA">
+      <img src="https://img.shields.io/badge/MQTT-Protocol-blueviolet?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
+      <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion API">
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🔭 Selected Projects | 精選專案
