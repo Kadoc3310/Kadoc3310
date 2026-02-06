@@ -3,11 +3,12 @@
 ### 🏭 Future Automation Engineer | AI Integration Specialist
 ### 未來自動化工程師 | AI 整合專家
 
-I am currently a Master's student (**graduating Feb 2026**) specializing in the convergence of traditional industrial automation and Artificial Intelligence. 
-My goal is to modernize industrial processes through Python scripting and smart data integration.
+I am a Master’s graduate (**February 2026**), specialized in the convergence of traditional industrial automation and Artificial Intelligence.
+My focus is on modernizing industrial processes through Python scripting and intelligent data integration.
 
-目前我是一名碩士生（**預計 2026 年 2 月畢業**），專攻傳統工業自動化與人工智慧的融合。我的目標是透過 Python 腳本與智慧數據整合來實現工業製程的現代化。
 
+我已於 2026 年 2 月取得碩士學位，專攻傳統工業自動化與人工智慧的融合。
+我的專業重點在於透過 Python 腳本與智慧數據整合來實現工業製程的現代化。
 ---
 
 ### 🛠️ Tech Stack | 技術棧
