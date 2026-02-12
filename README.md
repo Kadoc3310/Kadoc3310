@@ -52,7 +52,7 @@ My focus is on modernizing industrial processes through Python scripting and int
 
 * **🏭 PLC & IoT (PLC 與工業物聯網)**
     * *Tech:* Mitsubishi FX5U, GX Works3
-    * Ladder logic development and iIoT integration for data logging.
+    * Ladder logic development and IIoT integration for data logging.
     * **三菱 FX5U** 階梯圖程式開發，以及用於數據記錄的工業物聯網 (iIoT) 整合。
 
 * **🎬 Desktop Tools (桌面自動化工具)**
