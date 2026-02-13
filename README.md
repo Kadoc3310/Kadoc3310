@@ -40,34 +40,35 @@ My focus is on modernizing industrial processes through Python scripting and int
 
 ### 🔭 Selected Projects | 精選專案
 
-* **🗺️ Taiwan Job Map (台灣求職地圖)**
+* **🗺️💼 Taiwan Job Hunt System (台灣求職系統整合)**
+  * **Map Visualization** | *Tech:* Streamlit, Folium, Python
+    * An interactive application to visualize and analyze the job market in real-time.
+    * 使用 Streamlit 和 Folium 開發的互動式應用程式，用於即時視覺化並分析就業市場數據。
   
-  <table>
-  <tr>
-  <td width="55%">
-  
-  * *Tech:* Streamlit, Folium, Python
-  * An interactive application to visualize and analyze the job market in real-time.
-  * 使用 Streamlit 和 Folium 開發的互動式應用程式，用於即時視覺化並分析就業市場數據。
-  
-  </td>
-  <td width="45%">
-  
-  <img src="images/Taiwan_job_project.png" width="350" alt="Taiwan Job Map"/>
-  
-  </td>
-  </tr>
-  </table>
-
-* **⚡ Notion Automation (Notion 自動化整合)**
-    * *Tech:* Python, Notion API
+  * **Notion Automation** | *Tech:* Python, Notion API
     * Scripts to synchronize job applications and task tracking automatically.
     * 透過 Notion API 開發 Python 腳本，自動同步求職申請與任務追蹤。
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/Taiwan_job_project.jpg" width="100%" alt="Taiwan Job Map"/>
+      <br>
+      <em>Interactive Job Market Map</em>
+    </td>
+    <td align="center">
+      <img src="images/Job_Hunt_Tracker.png" width="100%" alt="Notion Tracker"/>
+      <br>
+      <em>Notion Job Tracker Dashboard</em>
+    </td>
+  </tr>
+</table>
+
 
 * **🏭 PLC & IoT (PLC 與工業物聯網)**
     * *Tech:* Mitsubishi FX5U, GX Works3
     * Ladder logic development and IIoT integration for data logging.
-    * **三菱 FX5U** 階梯圖程式開發，以及用於數據記錄的工業物聯網 (iIoT) 整合。
+    * **三菱 FX5U** 階梯圖程式開發，以及用於數據記錄的工業物聯網 (IIoT) 整合。
 
 * **🎬 Desktop Tools (桌面自動化工具)**
     * *Tech:* Python, Tkinter, MoviePy
