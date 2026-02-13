@@ -41,9 +41,23 @@ My focus is on modernizing industrial processes through Python scripting and int
 ### 🔭 Selected Projects | 精選專案
 
 * **🗺️ Taiwan Job Map (台灣求職地圖)**
-    * *Tech:* Streamlit, Folium, Python
-    * An interactive application to visualize and analyze the job market in real-time.
-    * 使用 Streamlit 和 Folium 開發的互動式應用程式，用於即時視覺化並分析就業市場數據。
+  
+  <table>
+  <tr>
+  <td width="55%">
+  
+  * *Tech:* Streamlit, Folium, Python
+  * An interactive application to visualize and analyze the job market in real-time.
+  * 使用 Streamlit 和 Folium 開發的互動式應用程式，用於即時視覺化並分析就業市場數據。
+  
+  </td>
+  <td width="45%">
+  
+  <img src="images/Taiwan_job_project.png" width="350" alt="Taiwan Job Map"/>
+  
+  </td>
+  </tr>
+  </table>
 
 * **⚡ Notion Automation (Notion 自動化整合)**
     * *Tech:* Python, Notion API
