@@ -52,12 +52,12 @@ My focus is on modernizing industrial processes through Python scripting and int
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/Taiwan_job_project.jpg" width="100%" alt="Taiwan Job Map"/>
+      <img src="Photos/Northern Taiwan Map.png" width="100%" alt="Taiwan Job Map"/>
       <br>
       <em>Interactive Job Market Map</em>
     </td>
     <td align="center">
-      <img src="images/Job_Hunt_Tracker.png" width="100%" alt="Notion Tracker"/>
+      <img src="Photos/Northern Taiwan Industry Location.png" width="100%" alt="Notion Tracker"/>
       <br>
       <em>Notion Job Tracker Dashboard</em>
     </td>
