@@ -34,7 +34,7 @@
     <td>
       <img src="https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge" alt="Ollama">
       <img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge" alt="Claude">
-      <img src="https://img.shields.io/badge/Qwen_2.5-7B-blue?style=for-the-badge" alt="Qwen">
+      <img src="https://img.shields.io/badge/gpt--oss--safeguard-20B-blue?style=for-the-badge" alt="gpt-oss-safeguard:20b">
       <img src="https://img.shields.io/badge/Prompt_Engineering-LLM-yellow?style=for-the-badge" alt="Prompt Engineering">
     </td>
   </tr>
