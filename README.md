@@ -1,15 +1,8 @@
-# Hi there, I'm Mathieu Bodin! 👋 | 您好，我是馬修！
-
-### 🏭 Future Automation Engineer | AI Integration Specialist
-### 未來自動化工程師 | AI 整合專家
-
-I am a French Master’s graduate (**February 2026**), specialized in the convergence of traditional industrial automation and Artificial Intelligence.
-My focus is on modernizing industrial processes through Python scripting and intelligent data integration.
-
-
 我已於 2026 年 2 月取得碩士學位，專攻傳統工業自動化與人工智慧的融合。
-我的專業重點在於透過 Python 腳本與智慧數據整合來實現工業製程的現代化。
+我的專業重點在於透過 Python 腳本、智慧數據整合與本地大型語言模型 (LLM) 來實現工業製程的現代化。
+
 ---
+
 <table>
   <tr>
     <td><strong>Languages & Scripting</strong></td>
@@ -24,6 +17,7 @@ My focus is on modernizing industrial processes through Python scripting and int
       <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" alt="Tkinter">
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
       <img src="https://img.shields.io/badge/GX_Works3-Factory-green?style=for-the-badge" alt="GX Works3">
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
     </td>
   </tr>
   <tr>
@@ -35,7 +29,17 @@ My focus is on modernizing industrial processes through Python scripting and int
       <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion API">
     </td>
   </tr>
+  <tr>
+    <td><strong>AI & LLM</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge" alt="Ollama">
+      <img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge" alt="Claude">
+      <img src="https://img.shields.io/badge/Qwen_2.5-7B-blue?style=for-the-badge" alt="Qwen">
+      <img src="https://img.shields.io/badge/Prompt_Engineering-LLM-yellow?style=for-the-badge" alt="Prompt Engineering">
+    </td>
+  </tr>
 </table>
+
 ---
 
 ### 🔭 Selected Projects | 精選專案
@@ -44,7 +48,7 @@ My focus is on modernizing industrial processes through Python scripting and int
   * **Map Visualization** | *Tech:* Streamlit, Folium, Python
     * An interactive application to visualize and analyze the job market in real-time.
     * 使用 Streamlit 和 Folium 開發的互動式應用程式，用於即時視覺化並分析就業市場數據。
-  
+
   * **Notion Automation** | *Tech:* Python, Notion API
     * Scripts to synchronize job applications and task tracking automatically.
     * 透過 Notion API 開發 Python 腳本，自動同步求職申請與任務追蹤。
@@ -64,11 +68,18 @@ My focus is on modernizing industrial processes through Python scripting and int
   </tr>
 </table>
 
+* **🤖 104 Job Market Analyzer (求職市場 AI 分析系統)**
+  * *Tech:* Python, Selenium, Ollama, Qwen 2.5, BeautifulSoup
+  * Two-stage automated job analysis pipeline: scrapes live listings from 104.com.tw,
+    filters by role and posting time, then runs deep career-fit analysis using a local LLM.
+  * 兩階段自動化求職分析系統：爬取 104.com.tw 最新職缺，依職位與發布時間篩選後，
+    透過本地 LLM 進行深度職涯適配分析，並輸出含可點擊連結的 Word 報告。
+  * **Output:** JSON + TXT + .docx report.
 
 * **🏭 PLC & IoT (PLC 與工業物聯網)**
     * *Tech:* Mitsubishi FX5U, GX Works3
     * Ladder logic development and IIoT integration for data logging.
-    * **三菱 FX5U** 階梯圖程式開發，以及用於數據記錄的工業物聯網 (IIoT) 整合。
+    * 三菱 FX5U 階梯圖程式開發，以及用於數據記錄的工業物聯網 (IIoT) 整合。
 
 * **🎬 Desktop Tools (桌面自動化工具)**
     * *Tech:* Python, Tkinter, MoviePy
@@ -76,8 +87,3 @@ My focus is on modernizing industrial processes through Python scripting and int
     * 使用 Python (Tkinter) 開發桌面執行檔，實現日常任務（如影片剪輯、數據追蹤）的自動化。
 
 ---
-
-### 📫 Contact Me | 聯絡方式
-
-* 💼 **LinkedIn:** https://www.linkedin.com/in/mathieu-bodin-2025tw/
-* 📧 **Email:** 11274504@o365st.cycu.edu.tw
